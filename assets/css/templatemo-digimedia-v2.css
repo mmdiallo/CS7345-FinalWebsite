@@ -1634,6 +1634,8 @@ Blog
 .blog-post .thumb img {
   border-top-right-radius: 23px;
   border-top-left-radius: 23px;
+  /* width: 100%;
+  height: 600px; */
 }
 
 .blog-post .down-content {
@@ -1713,7 +1715,7 @@ Blog
 }
 
 .post-item .right-content {
-  padding-top: 20px;
+  /* padding-top: 20px; */
 }
 
 .post-item .right-content span.category {
